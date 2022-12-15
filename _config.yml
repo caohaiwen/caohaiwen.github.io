@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Charles Cao's personal website"
 title_separator          : "-"
-name                     : &name "Haiwen (Charles) CAO"
+name                     : &name "Haiwen (Charles) Cao"
 description              : &description "Ph.D. student at Department of information engineering, CUHK"
-url                      : https://haiwencao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://caohaiwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haiwencao.github.io"
+repository               : "caohaiwen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
