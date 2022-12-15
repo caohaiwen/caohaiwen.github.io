@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student @IE, CUHK"
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : haiwen.cao94@gmail.com
   researchgate     :  "https://www.researchgate.net/profile/Haiwen-Cao"
