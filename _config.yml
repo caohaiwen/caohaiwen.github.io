@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haiwen (Charles) CAO/ Site Title"
+title                    : "Charles Cao's personal website"
 title_separator          : "-"
 name                     : &name "Haiwen (Charles) CAO"
-description              : &description "personal description"
+description              : &description "Ph.D. student at Department of information engineering, CUHK"
 url                      : https://haiwencao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caohaiwen/haiwencao.github.io"
+repository               : "haiwencao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Haiwen (Charles) Cao"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "caohaiwen"
   google_plus      :
   keybase          :
   instagram        :
