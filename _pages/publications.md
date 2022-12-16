@@ -33,8 +33,6 @@ author_profile: true
 
 
 
-
-
 ## Journal Papers
 <b>Using List Decoding to Improve the Finite-Length Performance of Sparse Regression Codes
 </b><br> <b>Haiwen Cao</b>, and Pascal O. Vontobel. <br>
