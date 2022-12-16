@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a final-year Ph.D. student in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/main/index.shtml) at the [Chinese University of Hong Kong](https://cuhk.edu.hk/english/index.html), fortunately advised by [Prof. Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
+* I am currently a final-year Ph.D. student in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/main/index.shtml) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by [Prof. Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
 
 * Previously, I received the B.E. degree in communication engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
 
