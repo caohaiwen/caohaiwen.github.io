@@ -9,7 +9,7 @@ author_profile: true
 Decoding CRC-aided Sparse Regression Codes via Exploiting Intrinsic Information
 <br><u>Haiwen Cao</u>, and Pascal O. Vontobel<br>
 
-<CRC-aided Sparse Regression Codes for Unsourced Random Access
+CRC-aided Sparse Regression Codes for Unsourced Random Access
 <br><u>Haiwen Cao</u>, Jiongyue Xing, Shansuo Liang, Wei Han, and Bo Bai<br>
 
 
