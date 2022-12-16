@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experiences"
+title: "Education"
 permalink: /experiences/
 author_profile: true
 ---
@@ -34,7 +34,7 @@ Conference Reviewer:
 <!-- * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External) -->
 
 Journal Reviewer: 
-<!-- * IEEE Transactions on Wireless Communications -->
+* IEEE Transactions on Wireless Communications
 <!-- * Digital Signal Processing  -->
 <!-- * IEEE Communications Letter -->
 <!-- * IEEE Wireless Communications Letter -->
