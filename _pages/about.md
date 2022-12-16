@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is Charles's homepage!
+* I am currently a final-year Ph.D. student in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/main/index.shtml) at the [Chinese University of Hong Kong](https://cuhk.edu.hk/english/index.html), fortunately advised by [Prof. Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
+
+* Previously, I received the B.E. degree in communication engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
+
+* My research interests lie in modern coding theory and high-dimensional statistics, particularly in inference in graphical models (e.g., message passing algorithms (over sparse factor graphs), approxiamte message passing algorithms (over dense factor graphs)).
+
+<br />
+
+News
+=====
+**Dec. 2022:** Set up my personal homepage, thank Prof. [Stuart Geiger](https://stuartgeiger.com/) to providing this nice [template](https://academicpages.github.io/)!
 
 
-test test
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=e-VNViToF7b8UTXUwpUCeShGxls-0x06T0RDOH1SOvA&cl=ffffff&w=a"></script>
