@@ -18,7 +18,7 @@ redirect_from:
 
 News
 =====
-**Dec. 2022:** Set up my personal homepage, thank Prof. [Stuart Geiger](https://stuartgeiger.com/) to providing this nice [template](https://academicpages.github.io/)!
+**Dec. 2022:** Set up my personal homepage. Thank Prof. [Stuart Geiger](https://stuartgeiger.com/) for providing this nice [template](https://academicpages.github.io/)!
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=e-VNViToF7b8UTXUwpUCeShGxls-0x06T0RDOH1SOvA&cl=ffffff&w=a"></script>
