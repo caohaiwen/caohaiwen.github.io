@@ -43,6 +43,6 @@ Journal Reviewer:
 
 Talks
 =====
-To be updates
+To be updated
 <!-- * Jun, 2022: I gave an invited talk on Fairness in Graph at Visa Research Intern Seminar. -->
 <!-- * Jun, 2022: I gave an invited talk at [AI-Time](http://www.aitime.cn/). -->
