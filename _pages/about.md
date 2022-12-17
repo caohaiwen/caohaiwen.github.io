@@ -10,7 +10,7 @@ redirect_from:
 
 * I am currently a final-year Ph.D. student in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/main/index.shtml) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
 
-* Previously, I received the B.E. degree in communications engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
+* Previously, I received the B.E. degree in communications engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), Harbin, China.
 
 * My research interests lie in modern coding theory and high-dimensional statistics, particularly in inference in graphical models (e.g., message passing algorithms (over sparse factor graphs), approxiamte message passing algorithms (over dense factor graphs)).
 
