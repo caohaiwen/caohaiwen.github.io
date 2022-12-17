@@ -5,12 +5,12 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**The Chinese University of Hong Kong**, Aug. 2017 - present \\
+**The Chinese University of Hong Kong**, Hong Kong, Aug. 2017 - present \\
 -- Ph.D. in Information Engineering \\
 -- supervision by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)
 
 
-**Harbin Insuitute of Technology, Harbin**, Aug. 2012 - Jun. 2016 \\
+**Harbin Insuitute of Technology**, Harbin, Aug. 2012 - Jun. 2016 \\
 -- B.E. in Communications Engineering\\
 <br />
 
