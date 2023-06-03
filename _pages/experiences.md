@@ -20,7 +20,7 @@ Experiences
 -- Supervisor: Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)\\
 -- Research topics: modern coding theory and graphical models
 
-**Research Intern at Theory Lab, Huawei Hong Kong research center**, May. 2022 - Oct. 2022 \\
+**Research Intern at Theory Lab, Huawei Hong Kong research center**, May. 2022 - Oct. 2022 \\     
 -- Supervisors: [Dr. Tao Guo](https://cyber.seu.edu.cn/gt/list.htm) and [Dr. Shansuo Liang](https://www.linkedin.com/in/shansuo-liang-386b84aa/?originalSubdomain=hk)\\
 -- Research topics: coding techniques for unsourced random access.
 
@@ -43,6 +43,7 @@ Journal Reviewer:
 
 Talks
 =====
-To be updated
+Dec., 2022: "Sparse Regression Codes: Techniques, Algorithms, and Applications", School of Cyber Science and Engineering, Southeast University.
+
 <!-- * Jun, 2022: I gave an invited talk on Fairness in Graph at Visa Research Intern Seminar. -->
 <!-- * Jun, 2022: I gave an invited talk at [AI-Time](http://www.aitime.cn/). -->
