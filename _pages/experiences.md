@@ -31,19 +31,12 @@ Services
 =====
 Conference Reviewer: 
 * ITW'21, ISIT'20, ITW'20, WCNC'20, GLOBECOM'19
-<!-- * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External) -->
 
 Journal Reviewer: 
 * IEEE Transactions on Wireless Communications
-<!-- * Digital Signal Processing  -->
-<!-- * IEEE Communications Letter -->
-<!-- * IEEE Wireless Communications Letter -->
-<!-- * EURASIP Journal on Wireless Communications and Networking  -->
+
 
 
 Talks
 =====
-Dec., 2022: "Sparse Regression Codes: Techniques, Algorithms, and Applications", School of Cyber Science and Engineering, Southeast University.
-
-<!-- * Jun, 2022: I gave an invited talk on Fairness in Graph at Visa Research Intern Seminar. -->
-<!-- * Jun, 2022: I gave an invited talk at [AI-Time](http://www.aitime.cn/). -->
+**Dec., 2022:** "Sparse Regression Codes: Techniques, Algorithms, and Applications," (School of Cyber Science and Engineering)[https://cyber.seu.edu.cn/wa_en/], Southeast University, China.
