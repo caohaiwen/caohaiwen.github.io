@@ -30,10 +30,10 @@ Experiences
 Services
 =====
 Conference Reviewer: 
-* ITW'21, ISIT'20, ITW'20, WCNC'20, GLOBECOM'19\
+* ITW'21, ISIT'20, ITW'20, WCNC'20, GLOBECOM'19
 
 Journal Reviewer: 
-* IEEE Transactions on Wireless Communications\
+* IEEE Transactions on Wireless Communications
 
 
 
