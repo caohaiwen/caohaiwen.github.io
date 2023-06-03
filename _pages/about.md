@@ -18,9 +18,9 @@ redirect_from:
 
 News
 =====
-**May 2023:** Paper on "[CRC-aided Sparse Regression Codes for Unsourced Random Access](https://doi.org/10.1109/LCOMM.2023.3281495)" accepted to IEEE Commun. Lett.\\
+**May 2023:** Paper on "[CRC-aided Sparse Regression Codes for Unsourced Random Access](https://doi.org/10.1109/LCOMM.2023.3281495)" accepted to IEEE Commun. Lett.\
 
-**Dec. 2022:** Gave an invited talk titled "Sparse Regression Codes: Techniques, Algorithms, and Applications," [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/wa_en/), Southeast University, China.\\
+**Dec. 2022:** Gave an invited talk titled "Sparse Regression Codes: Techniques, Algorithms, and Applications," [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/wa_en/), Southeast University, China.\
 
 **Dec. 2022:** Set up my personal homepage. Thank Prof. [Stuart Geiger](https://stuartgeiger.com/) for providing this nice [template](https://academicpages.github.io/)!
 
