@@ -18,6 +18,8 @@ redirect_from:
 
 News
 =====
+**June 2023:** Successfully defended my Ph.D. dissertation, titled "Sparse Regression Codes: Techniques, Algorithms, and Applications," on June 20, 2023.
+
 **May 2023:** Paper on "[CRC-aided Sparse Regression Codes for Unsourced Random Access](https://doi.org/10.1109/LCOMM.2023.3281495)" accepted to IEEE Commun. Lett.
 
 **Dec. 2022:** Gave an invited talk titled "Sparse Regression Codes: Techniques, Algorithms, and Applications," [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/wa_en/), Southeast University, China.
