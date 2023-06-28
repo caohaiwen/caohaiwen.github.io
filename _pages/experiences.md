@@ -10,7 +10,7 @@ author_profile: true
 -- supervision by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)
 
 
-**Harbin Insuitute of Technology**, Harbin, Aug. 2012 - Jun. 2016 \
+**Harbin Institute of Technology**, Harbin, Aug. 2012 - Jun. 2016 \
 -- B.E. in Communications Engineering\
 <br />
 
@@ -21,7 +21,7 @@ Experiences
 -- Research topics: modern coding theory and graphical models
 
 **Research Intern at Theory Lab, Huawei Hong Kong research center**, May. 2022 - Oct. 2022\
--- Supervisors: [Dr. Tao Guo](https://cyber.seu.edu.cn/gt/list.htm) and [Dr. Shansuo Liang](https://www.linkedin.com/in/shansuo-liang-386b84aa/?originalSubdomain=hk)\
+-- Supervisors: Dr. [Tao Guo](https://cyber.seu.edu.cn/gt/list.htm) and Dr. [Shansuo Liang](https://www.linkedin.com/in/shansuo-liang-386b84aa/?originalSubdomain=hk)\
 -- Research topics: coding techniques for unsourced random access.
 
 **Teaching Assistant at IE, CUHK**, Aug. 2017 - April. 2022 \
@@ -30,7 +30,7 @@ Experiences
 Services
 =====
 Conference Reviewer: 
-* ITW'21, ISIT'20, ITW'20, WCNC'20, GLOBECOM'19
+* ISTC'23, ITW'21, ISIT'20, ITW'20, WCNC'20, GLOBECOM'19
 
 Journal Reviewer: 
 * IEEE Transactions on Wireless Communications
