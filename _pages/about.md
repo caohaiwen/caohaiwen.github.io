@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a final-year Ph.D. student in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/main/index.shtml) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
+* I am currently a researcher at Theory Lab, Huawei Hong Kong research center.
 
-* Previously, I received the B.E. degree in communications engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), Harbin, China.
+* I graduated from the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
 
-* My research interests lie in modern coding theory and high-dimensional statistics, particularly in inference in graphical models (e.g., message passing algorithms (over sparse factor graphs), approxiamte message passing algorithms (over dense factor graphs)).
+* Prior to that, I received a Bachelor's degree in communications engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), Harbin, China.
+
+* My research interests are centered around coding theory. signal processing, and statistical inference.
 
 <br />
 
 News
 =====
+**August 2023:** Started to work as a researcher at Theory Lab, Huawei Hong Kong research center on August 2023.
+
 **June 2023:** Successfully defended my Ph.D. dissertation, titled "Sparse Regression Codes: Techniques, Algorithms, and Applications," on June 20, 2023.
 
 **May 2023:** Paper on "[CRC-aided Sparse Regression Codes for Unsourced Random Access](https://doi.org/10.1109/LCOMM.2023.3281495)" accepted to IEEE Commun. Lett.
