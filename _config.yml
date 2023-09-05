@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haiwen's homepage"
+title                    : "Charles's homepage"
 title_separator          : "-"
 name                     : &name "Haiwen Cao"
-description              : &description "Ph.D. student at Department of information engineering, CUHK"
+description              : &description "Researcher at Theory Lab, Huawei HKRC"
 url                      : https://caohaiwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caohaiwen.github.io"
