@@ -31,5 +31,5 @@ Proc. IEEE Int. Inf. Theory Workshop (**ITW**), Riva del Garda, Italy, Apr. 2021
 
 ## Ph.D. Thesis
 Sparse Regression Codes: Techniques, Algorithms, and Applications
-Department of Information Engineering, The Chinese University of Hong Kong, 2023.
+<br> Department of Information Engineering, The Chinese University of Hong Kong, 2023. <br>
 
