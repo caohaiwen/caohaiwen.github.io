@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**The Chinese University of Hong Kong**, Hong Kong, Aug. 2017 - present \
+**The Chinese University of Hong Kong**, Hong Kong, Aug. 2017 - Aug. 2023 \
 -- Ph.D. in Information Engineering \
 -- supervision by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)
 
@@ -16,7 +16,9 @@ author_profile: true
 
 Experiences
 =====
-**Research Assistant at IE, CUHK**, Nov. 2022 - present \
+**Researcher at Theory Lab, Huawei Hong Kong research center**, Aug. 2023 - present\
+
+**Research Assistant at IE, CUHK**, Nov. 2022 - July. 2023 \
 -- Supervisor: Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)\
 -- Research topics: modern coding theory and graphical models
 
