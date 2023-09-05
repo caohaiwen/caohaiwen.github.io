@@ -13,7 +13,7 @@ Decoding CRC-aided Sparse Regression Codes via Exploiting Intrinsic Information
 ## Journal Papers
 CRC-aided Sparse Regression Codes for Unsourced Random Access [[pdf]](https://doi.org/10.1109/LCOMM.2023.3281495) [[codes]](https://github.com/caohaiwen/CRC-aided_SPARCs_for_URA)
 <br><u>Haiwen Cao</u>, Jiongyue Xing, and Shansuo Liang<br>
-IEEE Commun. Lett., 2023+
+IEEE Commun. Lett., vol. 27, no. 8, pp. 1944-1948, Aug. 2023.
 
 Using List Decoding to Improve the Finite-Length Performance of Sparse Regression Codes [[pdf]](https://ieeexplore.ieee.org/document/9398698)
 <br> <u>Haiwen Cao</u>, and Pascal O. Vontobel. <br>
@@ -28,4 +28,8 @@ Proc. IEEE Int. Inf. Theory Workshop (**ITW**), Mumbai, India, Nov. 2022.
 Using List Decoding to Improve the Finite-Length Performance of Sparse Regression Codes[[poster]](https://caohaiwen.github.io/files/Poster_CSCIT2021.pdf) [[slides]](https://caohaiwen.github.io/files/ITW2020__Presentation.pdf) [[pdf]](https://ieeexplore.ieee.org/document/9457621)
 <br> <u>Haiwen Cao</u>, and Pascal O. Vontobel.  <br>
 Proc. IEEE Int. Inf. Theory Workshop (**ITW**), Riva del Garda, Italy, Apr. 2021.
+
+## Ph.D. Thesis
+Sparse Regression Codes: Techniques, Algorithms, and Applications
+Department of Information Engineering, The Chinese University of Hong Kong, 2023.
 
