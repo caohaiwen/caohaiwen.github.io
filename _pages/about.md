@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a researcher at Theory Lab, Huawei Hong Kong research center.
+* I am currently a researcher at Theory Lab, Huawei Hong Kong Research Center (HKRC).
 
 * I graduated from the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at the [Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/english/index.html), fortunately advised by Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/). 
 
 * Prior to that, I received a Bachelor's degree in communications engineering from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), Harbin, China.
 
-* My research interests are centered around coding theory. signal processing, and statistical inference.
+* My research interests are centered around coding theory, signal processing, and statistical inference.
 
 <br />
 
