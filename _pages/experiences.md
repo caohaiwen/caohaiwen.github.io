@@ -16,7 +16,7 @@ author_profile: true
 
 Experiences
 =====
-**Researcher at Theory Lab, Huawei Hong Kong research center**, Aug. 2023 - present\
+**Researcher at Theory Lab, Huawei Hong Kong research center**, Aug. 2023 - present \
 
 **Research Assistant at IE, CUHK**, Nov. 2022 - July. 2023 \
 -- Supervisor: Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)\
