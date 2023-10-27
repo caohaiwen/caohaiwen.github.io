@@ -36,6 +36,7 @@ Conference Reviewer:
 
 Journal Reviewer: 
 * IEEE Transactions on Wireless Communications
+* IEEE Communications Letters
 
 
 
