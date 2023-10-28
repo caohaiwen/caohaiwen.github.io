@@ -22,7 +22,7 @@ Experiences
 -- Supervisor: Prof. [Pascal O. Vontobel](https://sites.google.com/site/pascalvontobel/)\
 -- Research topics: modern coding theory and graphical models
 
-**Research Intern at Theory Lab, Huawei Hong Kong research center**, May. 2022 - Oct. 2022\
+**Research Intern at Theory Lab, Huawei HKRC**, May. 2022 - Oct. 2022\
 -- Supervisors: Dr. [Tao Guo](https://cyber.seu.edu.cn/gt/list.htm) and Dr. [Shansuo Liang](https://www.linkedin.com/in/shansuo-liang-386b84aa/?originalSubdomain=hk)\
 -- Research topics: coding techniques for unsourced random access.
 
